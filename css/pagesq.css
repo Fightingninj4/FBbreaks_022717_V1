@@ -8,6 +8,7 @@
     top: 0;
     left: 0;
     z-index: -1;
+    background-image: url('MainImage.png');
    
 }
 
@@ -118,14 +119,16 @@
 
 #like {
     position: absolute;
-    top: 858px;
-    left: 138px;
+    top: 778px;
+    left: 277px;
+    color:#fef200;
 }
 
 #love {
     position: absolute;
-     top: 280px;
-    left: 138px;
+     top: 778px;
+    left: 514px;
+    color:white;
 
 }
 
