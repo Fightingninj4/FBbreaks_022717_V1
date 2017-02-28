@@ -122,6 +122,7 @@
     top: 778px;
     left: 277px;
     color:#fef200;
+ display: none;
 }
 
 #love {
@@ -140,10 +141,10 @@
 }
 
 #wow {
-    position: absolute;
-    top: 282px;
-    left: 1779px;
- display: none;
+       position: absolute;
+    top: 778px;
+    left: 277px;
+    color:#fef200;
 
 }
 
