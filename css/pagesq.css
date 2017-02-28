@@ -136,12 +136,14 @@
     position: absolute;
     top: 866px;
     left: 1779px;
+ display: none;
 }
 
 #wow {
     position: absolute;
     top: 282px;
     left: 1779px;
+ display: none;
 
 }
 
